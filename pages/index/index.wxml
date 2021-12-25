@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  
+
+  <view class="button-sp-area">
+    <button class="weui-btn" type="primary" size="mini" bindtap="onClickOpen">天堂</button>
+    <button class="weui-btn" type="warn" size="mini" bindtap="onClickOff">猪窝</button>
+  </view>
+
+  <view class="weui-footer weui-footer_fixed-bottom">
+    <view class="weui-footer__text">好鸭 </view>
+  </view>
+
+</view>
